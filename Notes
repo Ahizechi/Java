@@ -1,0 +1,13 @@
+variable = a reusable container for a value
+            a variable behaves as if it was the value it contains  
+
+primitive = simple value stored directly in memory (Static)
+reference = memory address (stack) that points to the (heap)
+
+Primitive = int, double, char, boolean
+reference = string, array, object
+
+steps to creating a variable:
+
+    declaration
+    assigment
