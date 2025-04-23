@@ -11,3 +11,5 @@ steps to creating a variable:
 
     declaration
     assigment
+
+printf() = method used to format output
